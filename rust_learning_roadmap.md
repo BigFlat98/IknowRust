@@ -18,7 +18,7 @@
 ## 🏁 Phase 1: 기반 다지기 (Basics)
 - [x] **Day 1: Cargo와 프로젝트 구조** - 프로젝트 생성, 컴파일, 실행의 메커니즘
 - [x] **Day 2: 변수와 가변성 (Variables & Mutability)** - `let`, `mut`, 상수의 차이
-- [/] **Day 3: Shadowing** - 변수 재선언의 유용성과 메모리 효율성
+- [x] **Day 3: Shadowing** - 변수 재선언의 유용성과 메모리 효율성
 - [ ] **Day 4: 스칼라 데이터 타입 (1)** - 정수형(Integer)의 종류와 선택 기준
 - [ ] **Day 5: 스칼라 데이터 타입 (2)** - 부동 소수점(Float), 불리언(Bool), 문자(Char)
 - [ ] **Day 6: 복합 데이터 타입** - 튜플(Tuple)과 배열(Array)의 활용

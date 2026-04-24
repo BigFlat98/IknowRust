@@ -33,7 +33,7 @@
 ### **Phase 1: Basics (진행 중)**
 - [x] **Day 1**: Cargo & Project Structure
 - [x] **Day 2**: Variables & Mutability, Constants
-- [ ] **Day 3**: Shadowing (Upcoming...)
+- [x] **Day 3**: Shadowing
 
 ---
 
