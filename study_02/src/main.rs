@@ -11,7 +11,7 @@ fn main() {
     // 2단계: Shadowing을 사용하여 'data'를 정수(i32) 타입으로 변환하세요.
     // 힌트: let data: i32 = data.parse().expect("숫자 변환 실패!");
     // 여기에 코드 작성:
-    let data: i32 = data.parse().expect("숫자 변환 실패!"); //parse는 문자열을 정수로 형변환
+    let data:i32 = data.parse().expect("숫자 변환 실패!"); //parse는 문자열을 정수로 형변환
 
     // 3단계: Shadowing을 사용하여 기존 'data' 값에 77을 더한 값을 다시 'data'에 담으세요.
     // 여기에 코드 작성:
